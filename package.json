@@ -13,10 +13,14 @@
   "dependencies": {
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
+<<<<<<< HEAD
     "react-redux": "^9.3.0",
     "react-router-dom": "^7.14.2",
     "redux": "^5.0.1",
     "redux-thunk": "^3.1.0"
+=======
+    "react-router-dom": "^7.14.2"
+>>>>>>> fedce30e21e979eb8220974d68c48681a41b37cb
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
